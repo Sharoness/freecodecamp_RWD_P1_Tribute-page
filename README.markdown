@@ -1,4 +1,3 @@
 # Tribute page
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/Sharoness/pen/PMWQdQ](https://codepen.io/Sharoness/pen/PMWQdQ).
-
+To see the webpage, use this link: https://sharoness.github.io/freecodecamp_RWD_P1_Tribute-page/dist/
  
